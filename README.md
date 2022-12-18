@@ -5,7 +5,7 @@ The development for this project as moved into: https://github.com/googollee/go-
 To migrate simply update your imports from:
 
 ```go
-import "github.com/googollee/go-engine.io"
+import "github.com/gonetlib/go-engine.io"
 ```
 
 To:

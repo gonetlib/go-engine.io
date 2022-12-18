@@ -8,8 +8,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/googollee/go-engine.io/base"
-	"github.com/googollee/go-engine.io/payload"
+	"github.com/gonetlib/go-engine.io/base"
+	"github.com/gonetlib/go-engine.io/payload"
 )
 
 type serverConn struct {
